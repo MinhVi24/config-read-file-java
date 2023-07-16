@@ -1,0 +1,792 @@
+KH_1_Hoàng Công Bảo_1988-06-12_email3@gmail.com_9123456750_Nam_Hà Nội
+KH_2_Trần Quốc Gia_1989-06-13_email4@gmail.com_9123456751_Nam_Hà Tây
+KH_3_Trần Công Minh_1990-06-14_email5@gmail.com_9123456752_Nam_Hà Nam
+KH_4_Lê Huỳnh Đức_1991-06-15_email6@gmail.com_9123456753_Nam_Hà Bắc
+KH_5_Trần Tuấn Anh_1992-06-15_email7@gmail.com_9123456754_Nam_Hà Giang
+KH_6_Phùng Quang Ngọc_1993-06-16_email8@gmail.com_9123456755_Nam_Hà Đông
+KH_7_Hà Gia Kinh_1994-06-17_email9@gmail.com_9123456756_Nam_Hà Nội
+KH_8_Gia Cát Lượng_1995-06-18_email10@gmail.com_9123456757_Nam_Hà Tây
+KH_9_Công Tôn Sách_1996-06-18_email11@gmail.com_9123456758_Nam_Hà Nam
+KH_10_Triển Chiêu_1997-06-19_email12@gmail.com_9123456759_Nam_Hà Bắc
+KH_11_Huỳnh Thánh Y_1998-06-20_email13@gmail.com_9123456760_Nữ_Hà Giang
+KH_12_Mỹ Tâm_1999-06-21_email14@gmail.com_9123456761_Nữ_Hà Đông
+KH_13_Sơn Tùng MTP_2000-06-21_email15@gmail.com_9123456762_Nam_Hà Nội
+KH_14_Hồng Thất Công_2001-06-22_email16@gmail.com_9123456763_Nam_Hà Tây
+KH_15_Trương Vô Kỵ_2002-06-23_email17@gmail.com_9123456764_Nam_Hà Nam
+KH_16_Trương Thúy Sơn_2003-06-24_email18@gmail.com_9123456765_Nam_Hà Bắc
+KH_17_Nguyễn Văn Thiệu_2004-06-24_email19@gmail.com_9123456766_Nam_Hà Giang
+KH_18_Ngô Đình Diệm_2005-06-25_email20@gmail.com_9123456767_Nam_Hà Đông
+KH_19_Nguyễn Hoàng_2006-06-26_email21@gmail.com_9123456768_Nam_Hà Nội
+KH_20_Nguyễn Trung Kiên_2007-06-27_email22@gmail.com_9123456769_Nam_Hà Tây
+KH_21_Lê Duy Bảo_2008-06-27_email23@gmail.com_9123456770_Nam_Hà Nam
+KH_22_Phạm Ngũ Lão_2009-06-28_email24@gmail.com_9123456771_Nam_Hà Bắc
+KH_23_Dương Đăng Thanh_2010-06-29_email25@gmail.com_9123456772_Nam_Hà Giang
+KH_24_Phạm Ngọc Lợi_2011-06-30_email2@gmail.com_9123456773_Nam_Hà Đông
+KH_25_Phạm Anh Tuấn_2010-06-30_email26@gmail.com_9123456774_Nam_Hà Nội
+KH_26_Nguyễn Gia Hưng_2009-06-30_email27@gmail.com_9123456775_Nam_Hà Tây
+KH_27_Lê Huyền Trang_2008-06-30_email28@gmail.com_9123456776_Nữ_Hà Nam
+KH_28_Phạm Hà Vân_2007-06-30_email29@gmail.com_9123456777_Nữ_Hà Bắc
+KH_29_Võ Hạnh Phúc_2006-06-30_email30@gmail.com_9123456778_Nữ_Hà Giang
+KH_30_Vũ Trung Hiếu_2005-06-30_email31@gmail.com_9123456779_Nam_Hà Đông
+KH_31_Lê Đăng Khôi_2004-06-30_email32@gmail.com_9123456780_Nam_Hà Nội
+KH_32_Nguyễn Võ Hồng Vân _2003-06-30_email33@gmail.com_9123456781_Nam_Hà Tây
+KH_33_Nguyễn Tri Phương_2002-06-30_email34@gmail.com_9123456782_Nam_Hà Nam
+KH_34_Hồ Cẩm Đào_2001-06-30_email35@gmail.com_9123456783_Nam_Hà Bắc
+KH_35_Ôn Gia Bảo_2000-06-30_email36@gmail.com_9123456784_Nam_Hà Giang
+KH_36_Kim Chính Ân_1999-06-30_email37@gmail.com_9123456785_Nam_Hà Đông
+KH_37_Kim Nhật Thành_1998-06-30_email38@gmail.com_9123456786_Nam_Hà Nội
+KH_38_Đặng Tiểu Bình_1997-06-30_email39@gmail.com_9123456787_Nam_Hà Tây
+KH_39_Đặng Thai Mai_1996-06-30_email40@gmail.com_9123456788_Nam_Hà Nam
+KH_40_Tập Cận Bình_1995-06-30_email41@gmail.com_9123456789_Nam_Hà Bắc
+KH_41_Lý A Bằng_1994-06-30_email42@gmail.com_9123456790_Nam_Hà Giang
+KH_42_Lê Lai_1993-06-30_email43@gmail.com_9123456791_Nam_Hà Đông
+KH_43_Tần Doanh Chính_1992-06-30_email44@gmail.com_9123456792_Nam_Hà Nội
+KH_44_Ngô Phù Sai_1991-06-30_email45@gmail.com_9123456793_Nam_Hà Tây
+KH_45_Câu Tiễn_1990-06-30_email46@gmail.com_9123456794_Nam_Hà Nam
+KH_46_Tây Thi_1989-06-30_email47@gmail.com_9123456795_Nữ_Hà Bắc
+KH_47_Đát Kỷ_1988-06-30_email48@gmail.com_9123456796_Nữ_Hà Giang
+KH_48_Cơ Thiếu Hoàng _1987-06-30_email49@gmail.com_9123456797_Nữ_Hà Đông
+KH_49_Nguyễn Hoàng Hồng Thúy_1986-06-30_email50@gmail.com_9123456798_Nữ_Hà Nội
+KH_50_Nguyễn Nhật Anh_1985-06-30_email51@gmail.com_9123456799_Nữ_Hà Tây
+TK_1_admin_12345678____
+TK_2_account2_12345678____
+TK_3_account3_12345678____
+TK_4_account4_12345678____
+TK_5_account5_12345678____
+TK_6_account6_12345678____
+TK_7_account7_12345678____
+TK_8_account8_12345678____
+TK_9_account9_12345678____
+TK_10_account10_12345678____
+TK_11_account11_12345678____
+TK_12_account12_12345678____
+TK_13_account13_12345678____
+TK_14_account14_12345678____
+TK_15_account15_12345678____
+TK_16_account16_12345678____
+TK_17_account17_12345678____
+TK_18_account18_12345678____
+TK_19_account19_12345678____
+TK_20_account20_12345678____
+TK_21_account21_12345678____
+TK_22_account22_12345678____
+TK_23_account23_12345678____
+TK_24_account24_12345678____
+TK_25_account25_12345678____
+TK_26_account26_12345678____
+TK_27_account27_12345678____
+TK_28_account28_12345678____
+TK_29_account29_12345678____
+TK_30_account30_12345678____
+TK_31_account31_12345678____
+TK_32_account32_12345678____
+TK_33_account33_12345678____
+TK_34_account34_12345678____
+TK_35_account35_12345678____
+TK_36_account36_12345678____
+TK_37_account37_12345678____
+TK_38_account38_12345678____
+TK_39_account39_12345678____
+TK_40_account40_12345678____
+TK_41_account41_12345678____
+TK_42_account42_12345678____
+TK_43_account43_12345678____
+TK_44_account44_12345678____
+TK_45_account45_12345678____
+TK_46_account46_12345678____
+TK_47_account47_12345678____
+TK_48_account48_12345678____
+TK_49_account49_12345678____
+TK_50_account50_12345678____
+KM_KM00001_Học sinh sinh viên_2023-01-01_2023-12-31_10_Khuyến mãi dành cho đối tượng học sinh sinh viên_
+KM_KM00002_KH Vip_2023-01-01_2023-12-31_10_Khuyến mãi dành cho khách hàng có chi tiêu trên 2000000_
+KM_KM00003_KH Super Vip_2023-01-01_2023-12-31_15_Khuyến mãi dành cho khách hàng có chi tiêu trên 500000_
+KM_KM00004_Hè sôi động_2023-03-01_2023-06-01_5_giảm giá vé xem phim trong thời gian hè_
+KM_KM00005_Thứ 4 vui vẻ_2023-01-01_2023-12-31_20_Giảm giá vé xem phim thứ 4 hàng tuần_
+KM_KM00006_Giải trí cuối tháng_2023-01-01_2023-12-31_15_Giảm giá vé xem phim thứ 6 cuối cùng của tháng_
+KM_KM00007_Mừng giải phóng_2023-04-15_2023-05-02_10_Mừng ngày giải phóng dân tộc_
+KM_KM00008_Ngày hội trẻ em_2023-06-01_2023-06-08_20_Mừng ngày quốc tế thiếu nhi_
+KM_KM00009_Combo bỏng nước_2023-01-01_2023-12-31_10_Giảm giá khi mua combo bỏng nước_
+KM_KM00000_Thường_2023-01-01_2023-12-31_0_Không có chương trình khuyến mãi_
+PC_PC00001_Classic_100_80000_I_
+PC_PC00002_Classic_100_80000_II_
+PC_PC00003_Classic_100_80000_III_
+PC_PC00004_Classic_100_80000_IV_
+PC_PC00005_Gold_64_150000_V_
+PC_PC00006_Gold_64_150000_VI_
+PC_PC00007_Platinum_30_250000_VII_
+PC_PC00008_3D-MAX_50_180000_VIII_
+PH_PH00001_James Cameron_Phim hành động_2023-09-30_2023-08-30_/CinemaWebApp/resources/image/thumb-461191.jpg_Avatar_01:30:00_Avatar là câu chuyện về người anh hùng “bất đắc dĩ” Jake Sully – một cựu sĩ quan thủy quân lục chiến bị liệt nửa thân. Anh được chọn để tham gia vào chương trình cấy gien với người ngoài hành tinh Na&rsquovi nhằm tạo ra một giống loài mới có thể hít thở không khí tại hành tinh Pandora. ...
+PH_PH00002_Anthony Russo, Joe Russo_Phim hành động_2023-09-30_2023-08-30_/CinemaWebApp/resources/image/thumb-458644.jpg_Avengers: End Game_01:31:00_Avengers: Endgame: Cú búng tay của Thanos đã khiến toàn bộ dân số biến mất một nửa. Các siêu anh hùng đánh mất bạn bè, người thân và đánh mất cả chính mình. Bộ sáu Avengers đầu tiên tứ tán. Iron Man kẹt lại ngoài không gian, Hawkeye mất tích. Thor, Captain America, Hulk và Black Widow đều chìm trong nỗi đau vô tận vì mất đi những người thân yêu. Họ phải làm gì để cứu vãn mọi chuyện ở Avengers: Hồi Kết? Điều khán giả quan tâm nhất hiện nay chính là ai sẽ còn sống và ai sẽ ra đi khi Avengers: Endgame kết thúc.
+PH_PH00003_James Cameron_Phim hành động_2023-09-30_2023-08-30_/CinemaWebApp/resources/image/m1sab0of.png_Avatar: The Way of Water_01:32:00_Avatar: The Way of Water lấy bối cảnh 10 năm sau những sự kiện xảy ra ở phần đầu tiên. Phim kể câu chuyện về gia đình mới của Jake Sully (Sam Worthington thủ vai) cùng những rắc rối theo sau và bi kịch họ phải chịu đựng khi phe loài người xâm lược hành tinh Pandora.
+PH_PH00004_James Cameron_Phim hành động_2023-09-30_2023-08-30_/CinemaWebApp/resources/image/titanic.jpg_Titanic_01:33:00_Titanic là một bộ phim thuộc hàng kinh điển của Hollywood, bộ phim kể về một chuyện tình thật đẹp thật lãng mạn trên chiếc thuyền dành cho quý tộc, chuyện tình giữa một nàng tiểu thư giới thượng lưu cùng chàng trai nghèo khổ.Phim kể về chiếc tàu mang tên Titanic, con tàu mà đối với nhiều người lúc đó ...
+PH_PH00005_J.J. Abrams_Phim hành động_2023-09-30_2023-08-30_/CinemaWebApp/resources/image/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE.jpg_Star Wars: Episode VII - The Force Awakens_01:34:00_30 năm sau thất bại của Darth Vader và Đế chế, Rey, một người nhặt rác từ hành tinh Jakku, tìm thấy một Droid BB-8 biết nơi ở của Luke Skywalker mất thời gian dài. Rey, cũng như một Stormtrooper lừa đảo và hai kẻ buôn lậu, được ném vào giữa trận chiến giữa sự kháng cự và quân đoàn nản chí của lệnh đầu tiên.
+PH_PH00006_Joe Russo, Anthony Russo_Phim hành động_2023-09-30_2023-08-30_/CinemaWebApp/resources/image/DasBGzfVAAI0RJ6.jpg_Avengers: Infinity War_01:35:00_Avengers: Infinity War là câu truyện sau chuyến hành trình độc nhất vô nhị không ngừng mở rộng và phát triển vụ trũ điện ảnh Marvel, bộ phim Avengers: Cuộc Chiến Vô Cực sẽ mang đến màn ảnh trận chiến cuối cùng khốc liệt nhất mọi thời đại. Biệt đội Avengers và các đồng minh siêu anh hùng của họ phải chấp nhận hy sinh tất cả để có thể chống lại kẻ thù hùng mạnh Thanos trước tham vọng hủy diệt toàn bộ vũ trụ của hắn
+PH_PH00007_Jon Watts_Phim hành động_2023-09-30_2023-08-30_/CinemaWebApp/resources/image/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NT.jpg_Spider-Man: No Way Home_01:36:00_Spider-Man: No Way Home kể về lần đầu tiên trong lịch sử điện ảnh của Người Nhện, thân phận người hàng xóm thân thiện bị lật mở, khiến trách nhiệm làm một Siêu Anh Hùng xung đột với cuộc sống bình thường và đặt người anh quan tâm nhất vào tình thế nguy hiểm. Khi anh nhờ đến giúp đỡ của Doctor Strange để khôi phục lại bí mật, phép thuật đã gây ra lỗ hổng thời không, giải phóng những ác nhân mạnh mẽ nhất từng đối đầu với Người Nhện từ mọi vũ trụ. Bây giờ, Peter sẽ phải vượt qua thử thách lớn nhất của mình, nó sẽ thay đổi không chỉ tương lai của chính anh mà còn là tương lai của cả Đa Vũ Trụ.
+PH_PH00008_Colin Trevorrow_Phim hành động_2023-09-30_2023-08-30_/CinemaWebApp/resources/image/unnamed.jpg_Jurassic World_01:37:00_Hai mươi hai năm sau Công viên kỷ Jura, Isla Nublar bây giờ đã trở thành công viên khủng long thật sự, tên là Jurassic World, ban đầu được hình dung bởi John Hammond. Công viên mới được sở hữu bởi Tập đoàn Masrani. Owen (Chris Pratt), một nhân viên tại chỗ của công viên, đang nghiên cứu hành vi của Velociraptor. Nhiều năm sau, tỉ lệ khách của Jurassic World suy giảm và một sức hút mới, được tạo ra để thu hút lại sự chú ý của khách, đem lại kết quả ngược với mong đợi.
+PH_PH00009_Darrell Rooney, Rob LaDuca_Phim hành động_2023-09-30_2023-08-30_/CinemaWebApp/resources/image/MV5BNTgxMWYwY2EtMGY4MS00MmRjLTg1MGQtMWU3MzgzMDA4ODQ2XkEy.jpg_The Lion King 2_01:38:00_Ở đoạn cuối của phần 1, Simba đánh bại ông chú Scar độc ác, đồng thời giành lại ngai vàng ở vùng đất Pride Land. Sau khi lên ngôi vua, Simba và hoàng hậu Nala có một cô con gái tên Kiara. Khi trưởng thành, Kiara kết bạn với Kovu, hậu duệ của một nhóm sư tử từng bị Simba trục xuất khỏi vương quốc vì tội trung thành với Scar. Sau một lần suýt bị nuốt chửng bởi đàn cá sấu, chúng trở nên vô cùng thân thiết. Zira, mẹ của Kovu, từ lâu đã ấp ủ ý định báo thù cho Scar nên huấn luyện để Kovu trở thành một sát thủ...
+PH_PH00010_Joss Whedon_Phim hành động_2023-04-24_2023-03-10_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_The Avengers_01:39:00_Loki, người em trai nuôi độc ác của Thor đến từ hành tinh Asgard xa xôi, đột nhập vào căn cứ của S.H.I.E.L.D để chiếm khối Tesseract chứa nguồn năng lượng vô hạn. Hắn còn âm mưu dẫn một đội quân tới Trái đất thôn tính và biến loài người thành nô lệ. Nick Fury, giám đốc của S.H.I.E.L.D nỗ lực tập hợp một đội quân tinh nhuệ nhất để bảo vệ trái đất khỏi âm mưu của Loki. Tuy nhiên, anh và người cộng sự lâu năm là điệp viên Coulson phải tìm cách thuyết phục các siêu anh hùng phối hợp thành một đội thay vì chống lại nhau...
+PH_PH00011_James Wan_Phim hành động_2023-04-25_2023-03-11_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_Fast & Furious 7_01:40:00_Ở cuối phần trước, tưởng chừng như mọi chuyện đã kết thúc, và mở ra một cuộc sống bình lặng, khi cả nhóm đã tiêu diệt được Owen Shaw. Thì trong phần này, sự xuất hiện của Deckard Shaw, người đã giết chết Han và khiêu chiến với Dominic Toretto để trả thù cho em trai Owen Shaw của mình hắn đã làm thay đổi tất cả khiến cho cuộc đụng độ giữa 2 băng nhóm lên đến đỉnh điểm...
+PH_PH00012_Joseph Kosinski_Phim hành động_2023-04-26_2023-03-12_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_Top Gun: Maverick_01:41:00_sau hơn ba mươi năm phục vụ, Pete “Maverick” Mitchell từng nổi danh là một phi công thử nghiệm quả cảm hàng đầu của Hải quân, né tránh cơ hội thăng chức, điều khiến anh cảm thấy bị bó buộc, để trở về làm chính mình.
+PH_PH00013_Chris Buck, Jennifer Lee_Phim hoạt hình_2023-04-28_2023-03-13_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_Frozen II_01:42:00_Kể về câu chuyện cùng dấn thân vào một cuộc phiêu lưu xa xôi thú vị, hai chị em Anna và Elsa đi đến chốn rừng sâu để tìm kiếm sự thật về bí ẩn cổ xưa của vương quốc mình. Tất cả những gì Anna & Elsa biết về bản thân, lịch sử và gia đình của họ đều bị thử thách khi họ bị cuốn vào một chuyến đi đầy quả cảm đến với vùng đất phía bắc bí ẩn ngoài Arendelle được báo trước.
+PH_PH00014_Joss Whedon_Phim hành động_2023-04-28_2023-03-14_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_Avengers: Age of Ultron_01:43:00_Biệt Đội Siêu Anh Hùng 2: Đế Chế Ultron lấy khởi đầu từ nhân vật Tony Stark - siêu anh hùng Iron Man. Khi chàng tỷ phú tái khởi động dự án gìn giữ hòa bình bị ngưng hoạt động từ lâu, mọi chuyện diễn ra không hề suôn sẻ. Các siêu anh hùng vĩ đại nhất trên Trái đất gồm Iron Man, Captain America, Thor, Hulk, Black Widow và Hawkeye đứng trước một thử thách vô cùng khó khăn trong việc đem lại cân bằng cho toàn thế giới. Trong phần này, biệt đội siêu anh hùng của chúng ta sẽ phải chiến đấu với binh đoàn robot được biết đến với cái tên là Ultron.
+PH_PH00015_Ryan Coogler_Phim hành động_2023-04-29_2023-03-15_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_Black Panther_01:44:00_T’Challa (Black Panther) là hoàng tử, một nhà sáng chế tài ba của đất nước Wakanda nằm tại Châu Phi, nơi sở hữu nguồn kim loại cực hiếm: vibranium. Với nguồn tài nguyên giàu có cùng sự tiến bộ vượt bậc, Wakanda trở thành mục tiêu tấn công của nhiều quốc gia, đế chế suốt vài thiên niên kỷ, mục đích của những kẻ xâm lược là giành được số vũ khí khủng khiếp và của cải ở đất nước giàu có này. Là người đứng đầu đất nước, hoàng tử T’Challa sẽ phải bảo vệ người dân của mình khỏi những mưu đồ từ nước ngoại bang. Sở hữu khả năng tác chiến nhanh nhạy, bộ giáp và móng vuốt bằng vibranium, có thể nói Black Panther cũng là một siêu anh hùng trong thế giới Marvel.
+PH_PH00016_David Yates_Phim hành động_2023-04-30_2023-03-16_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_Harry Potter and the Deathly Hallows: Part 2_01:45:00_Như chúng ta đã biết, kết thúc phần 1 là bộ ba Harry Potter (Daniel Radcliffe), Ron Weasley (Rupert Grint) và Hermione Granger (Emma Watson) vẫn đang trên đường đi tìm và phá hủy Trường Sinh Linh Giá - bí mật dẫn đến sự bất tử của Chúa tể Voldemort trong sự truy đuổi gắt gao của Thế Lực Bóng Tối. Đoạn video mới dài 1 phút rưỡi bắt đầu bằng hình ảnh Harry Potter và Chúa tể Voldemort mặt đối mặt trong khu rừng, tiếp đó là những hình ảnh Harry và nhóm bạn cùng những học sinh trường Hogwarts tham gia vào trận chiến cuối cùng. Sau khi khi tung một loạt những hình ảnh và clip đầu tiên của Harry Potter và Bảo bối tử thần 2, các nhà làm phim mới đây vừa tung ra poster đầu tiên cho bộ phim được mong chờ nhất trong dịp hè này.
+PH_PH00017_Rian Johnson_Phim hành động_2023-05-01_2023-03-17_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_Star Wars: Episode VIII - The Last Jedi_01:46:00_Star Wars: The Last Jedi là một bộ phim sử thi không gian sắp tới của Mỹ viết kịch bản và đạo diễn bởi Rian Johnson. Nó sẽ là bộ phim thứ 2 trong bộ ba phần sequel tiếp sau Star Wars: The Force Awakens.
+PH_PH00018_J.A. Bayona_Phim hành động_2023-05-02_2023-03-18_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_Jurassic World: Fallen Kingdom_01:47:00_Phim Thế Giới Khủng Long: Vương Quốc Sụp Đổ: Tất cả những yếu tố kỳ diệu, phiêu lưu, hồi hộp cùng với một trong những thương hiệu nổi tiếng và thành công nhất lịch sự điện ảnh, sự kiện này là một bước chuyển mình về hình ảnh cho thấy sự trở lại của các nhân vật được yêu thích và các loài khủng long đầy cảm hứng và đáng sợ hơn bao giờ hết. Chào mừng đến với Thế Giới Khủng Long: Vương Quốc Sụp Đổ
+PH_PH00019_Chris Buck, Jennifer Lee_Phim tình cảm_2023-05-03_2023-03-19_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_Frozen_01:48:00_NỮ HOÀNG BĂNG GIÁ kể về công chúa Anna đã quyết định dũng cảm cùng chàng trai Kristoff thực hiện một chuyến đi đầy nguy hiểm trong điều kiện thời tiết băng giá khắc nghiệt. Mục đích của chuyến đi này là cần phải tìm ra Elsa, chị của Anna, người có sức mạnh điều khiển băng tuyết – người đã đóng băng toàn bộ vương quốc khiến cho người dân nơi đây có nguy cơ chìm vào mùa Đông vĩnh viễn. Đồng hành cùng với bộ đôi này là sự hiện diện của chàng người tuyết vui tính tên Olaf, nhân vật chắc chắn sẽ mang lại tiếng cười và sưởi ấm trái tim của từng khán giả trong rạp vào mùa Giáng Sinh.
+PH_PH00020_Bill Condon_Phim hoạt hình_2023-04-28_2023-03-20_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_Beauty and the Beast_01:49:00_Câu chuyện của Người Đẹp Và Quái Vật - Beauty and the Beast xoay quanh Belle, một cô gái ham đọc và siêng năng. Bella đã thay cha làm tù nhân trong lâu đài của Beast xấu xí, nhưng rồi cô đem lòng yêu anh và phát hiện ra rằng anh thực sự là một hoàng tử. Khi biết Belle đã phải lòng Beast, Gaston dẫn một đám đông giận dữ tới để giết anh ta. Cuối cùng, tình yêu chân thành của Belle đã giúp Beast phá bỏ lời nguyền, được trở lại làm người.
+PH_PH00021_Brad Bird_Phim hành động_2023-05-05_2023-03-21_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_Incredibles 2_01:50:00_Gia Đình Siêu Nhân 2 đánh dấu những chuyến phiêu lưu anh hùng đầy hấp dẫn với sự đổi vai đầy táo bạo. Lần này, mẹ dẻo Helen (Elastigirl) sẽ đi thực chiến giải cứu thế giới trong khi bố khỏe Bob (Mr. Incredible) lùi về hậu phương trông nom những đứa con siêu nhân láu lỉnh gồm: con gái Violet ( siêu năng lực tàng hình và tạo ra từ trường làm chắn bảo vệ), con trai Dash (chạy siêu nhanh) và cậu út Jack-Jack với sức mạnh chưa được khám phá. Một ác nhân bí ẩn xuất hiện với một âm mưu đáng sợ khiến cho gia đình siêu nhân phải “tái xuất giang hồ”. Liệu gia đình siêu nhân sẽ vượt qua khó khăn này như thế nào?
+PH_PH00022_F. Gary Gray_Phim hành động_2023-05-06_2023-03-22_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_Fast & Furious 8_01:51:00_Dom và Letty hiện đang đi hưởng tuần trăng mật. Brian cùng Mia đã quyết định từ giã sự nghiệp. Các thành viên còn lại của nhóm cũng đã được minh oan và dần trở về với cuộc sống bình thường. Nhưng một người phụ nữ bí ẩn (do nữ diễn viên đoạt giải Oscar Charlize Theron thủ vai) đã dẫn dụ Dom vào thế giới tội phạm mà anh dường như không thể thoát ra được và thậm chí phản bội lại cả những người thân thiết nhất, họ sẽ phải trải qua những thử thách cam go mà họ chưa từng đối mặt. Từ bờ biển Cuba tới những con phố của New York cho đến đồng bằng băng giá của vùng cực biển Barents, đội ngũ ưu tú này sẽ tung hoành ngang dọc khắp địa cầu để ngăn chận âm mưu làm thế giới hỗn loạn của một kẻ vô chính phủ và mang người đàn ông đã gắn kết họ thành một gia đình trở về.
+PH_PH00023_Shane Black_Phim hành động_2023-05-07_2023-03-23_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_Iron Man 3_01:52:00_Tony Stark quay về ở ẩn trong căn biệt thự sang trọng của mình, tạm thời chờ đợi trong tư cách một tỷ phú giàu có được yêu mến và gác danh phận siêu anh hùng sang một bên. Tuy nhiên, những hiểm họa mới lại tiếp tục xuất hiện dưới bóng ma bao trùm của một quái nhân, đồng thời cũng là một thiên tài về công nghệ - The Mandarin. Người bạn thân trong lực lượng quân đội Hoa Kỳ của Tony - James Rhodes cần tới sự giúp đỡ của anh và những bộ giáp siêu việt. Mọi chuyện không hề dễ dàng như Tony và James tưởng tượng: dưới sức mạnh thần bí của mười chiếc nhẫn vũ trụ, The Mandarin đã đánh bại "Người Sắt", đồng thời khiến siêu anh hùng - tỷ phú trở thành kẻ mất trí nhớ...
+PH_PH00024_Kyle Balda, Brad Ableson, Jonathan del Val_Phim hoạt hình_2023-04-28_2023-03-23_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_Minions_01:53:00_Gru chỉ là một cậu bé 12 tuổi sống ở vùng ngoại ô vào những năm 1970, với ước mơ một ngày sẽ làm “bá chủ” thế giới. Và 3 “quả chuối” vàng biết đi từ trên trời rơi xuống đã là những đồng đội đầu tiên của Gru, bên cạnh ủng hộ cậu bé, cùng nhau thiết kế những vũ khí đầu tiên, thực hiện những phi vụ đầu tiên.
+PH_PH00025_Anthony Russo, Joe Russo_Phim hành động_2023-05-09_2023-03-25_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_Captain America: Civil War_01:54:00_Cùng với nhiều sự vụ xảy ra và biệt đội Avengers góp phần không nhỏ trong việc làm thiệt hại tài sản, chính phủ quyết định thiết lập cơ quan quản lý và giám sát những siêu anh hùng này. Sự chia rẽ nội bộ bắt đầu xảy đến. Một bên được lãnh đạo bởi Steve Rogers (Captain America) với mong muốn duy trì cả biệt đội để thực hiện mục tiêu bảo vệ nhân loại mà không có sự can thiệp nào từ bên ngoài. Phe còn lại do Tony Stark (Iron Man) đứng đầu, luôn hỗ trợ giám sát và có trách nhiệm giải trình mọi việc làm với chính phủ. Kịch tính được đẩy lên cao trào khi Captain America và Bucky cùng trực tiếp chiến đấu với Iron Man. Các siêu anh hùng khác cũng chia thành 2 phe, nhưng Marvel vẫn chưa chính thức xác nhận ai sẽ về phe nào.
+PH_PH00026_James Wan_Phim hành động_2023-09-30_2023-08-30_/CinemaWebApp/resources/image/711OskNJSJL.jpg_Aquaman_01:55:00_Sau những sự kiện trong Justice League, Arthur Curry - Aquaman trở về biển cả và bắt đầu đảm nhận quyền thừa kế vương quốc Atlantis dưới sự cố vấn của công chúa Mera. Thế nhưng, đế chế huyền thoại bao năm ẩn mình dưới lòng biển sâu Atlantics sắp phải dậy sóng khi Orm quyết tâm thu phục 7 chủng tộc nơi đáy đại dương để tiêu diệt toàn bộ sự sống trên mặt đất. Giữa lúc biển xanh cuộn trào những đợt sóng dữ dội nhất Aquaman sẽ đương đầu với mọi việc như thế nào để bảo vệ quê hương và thế giới?
+PH_PH00027_eter Jackson_Phim hành động_2023-09-30_2023-08-30_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_The Lord of the Rings: The Return of the King_01:56:00_Chúa Tể Của Những Chiếc Nhẫn 3: Sự Trở Về Của Nhà Vua:vương quốc một thời hưng thịnh nhất hơn bao giờ hết cần một vị vua tài giỏi lên lãnh đạo. Nhưng liệu Aragorn (Viggo Mortensen) có đáp lời dòng máu tổ tiên đang chảy trong huyết quản và tiếp nhận vị trí dành cho anh ngay từ khi mới sinh ra?
+PH_PH00028_Jon Watts_Phim hành động_2023-08-30_2023-04-05_/CinemaWebApp/resources/image/11430430-0-image-a-66_1553526292895.jpg_Spider-Man: Far from Home_01:57:00_Hậu chiến Vô Cực, Người Nhện Peter Parker và nhóm bạn thân cùng tham gia chuyến du lịch châu Âu của trường. Tuy nhiên, kế hoạch siêu anh hùng nghỉ phép của Peter nhanh chóng bị hủy bỏ sau khi cậu đồng ý giúp Nick Fury khám phá bí ẩn về những cuộc tấn công của nhóm kẻ thù mang sức mạnh nguyên tố đang tàn phá khắp lục địa.
+PH_PH00029_Anna Boden, Ryan Fleck_Phim hành động_2023-09-30_2023-04-05_/CinemaWebApp/resources/image/3510dd2165a9565fb72762b2ea441f18.jpg_Captain Marvel_01:58:00_Captain Marvel là một cuộc phiêu lưu hoàn toàn mới đến với một thời kỳ chưa từng xuất hiện trong vũ trụ điện ảnh Marvel. Bộ phim kể về con đường trở thành siêu anh hùng mạnh mẽ nhất vũ trụ của Carol Danvers. Bên cạnh đó, trận chiến ảnh hưởng đến toàn vũ trụ giữa tộc Kree và tộc Skrull đã lan đến Trái Đất, liệu Danvers và các đồng minh có thể ngăn chặn binh đoàn Skrull cũng như các thảm họa tương lai?
+PH_PH00030_Michael Bay_Phim hành động_2023-09-30_2023-04-05_/CinemaWebApp/resources/image/transformers-3-transformers-dark-of-the-moon.jpg_Transformers 3: Dark of the Moon_01:59:00_ Loài người đã phát hiện ra sự có mặt của các robot biến hình khi bước chân lên mặt trăng lần đầu. Con tàu vũ trụ từ Cybertron đang nằm lại mặt trăng chứa đựng nhiều bí ẩn khiến binh đoàn Autobot phải nhanh chóng tìm ra trước khi đám Decepticon đánh hơi ra sự kiện này....
+PH_PH00031_Steven Spielberg_Phim hành động_2023-09-30_2023-04-05_/CinemaWebApp/resources/image/khunglong.jpg_Jurassic Park_02:00:00_Trên một hòn đảo bí mật ,công việc chế tạo lại khủng long đang được hoàn thành bởi những DNA còn lại trên những con muỗi cổ xưa. Trước khi mở công viên của mình, ông Hammond đã mời một nhóm khoa học đến để tham quan và giúp đỡ ông. Nhưng trong một đêm mưa bão, hệ thống bảo vệ bị sụp đổ, những con thú khổng lồ cổ xưa thoát ra ngoài...
+PH_PH00032_Sam Mendes_Phim hành động_2023-08-30_2023-04-05_/CinemaWebApp/resources/image/diepvien.jpg_Skyfall_02:01:00_Skyfall (tựa gốc: Skyfall) là bộ phim gián điệp thứ 24 trong loạt phim James Bond, được sản xuất bởi Eon Productions và phân phối bởi MGM và Sony Pictures Entertainment. Trong bộ phim này Daniel Craig lần thứ ba thủ vai James Bond, và Javier Bardem thủ vai Raoul Silva, nhân vật phản diện. Bộ phim do Sam Mendes đạo diễn, biên kịch bởi John Logan, Neal Purvis và Robert Wade. Trong phim, Bond điều tra một cuộc tấn công vào MI6, làm lộ ra đó là một phần của một cuộc tấn công nhắm vào M bởi cựu đặc vụ MI6, Raoul Silva.
+PH_PH00033_Michael Bay_Phim hành động_2023-08-30_2023-04-05_/CinemaWebApp/resources/image/thumb-423725.jpg_Transformers 4: Age of Extinction_02:02:00_Tranformers 4: Age Of Extinction tiếp tục là một thế giới với đầy rẫy những robot. Kỷ Nguyên Huỷ Diệt bắt đầu sau một trận chiến lịch sử để lại một thành phố đổ nát. Với những mảnh ghép còn xót lại, một nhóm những robot cho thấy khả năng của họ có khả năng thay đổi lịch sử. Dẫn đầu nhóm autorobot là Optimus Prime chiến đấu với Dinobot, một cuộc chiến giữa thiện và ác. Sự đa dạng của Dinobot với robot khủng long, robot thú sẽ làm cho màn đối kháng trở nên kịch tích và ấp dẫn hơn bao giờ hết. Liệu Autobot và con người có thể chống lại Dinobot và thoát khỏi thảm họa diệt vong?
+PH_PH00034_Christopher Nolan_Phim hành động_2023-08-30_2023-04-05_/CinemaWebApp/resources/image/movieposter_en.jpg_The Dark Knight Rises_02:03:00_Sau cái chết của luật sư Harvey Dent, Batman nhận trách nhiệm cho tội ác của Dent để bảo vệ danh tiếng cho Dent và sau đó bị đuổi bắt bởi Cục cảnh sát thành phố Gotham. Tám năm sau các sự kiện của The Dark Knight, Batman trở lại Gotham, nơi anh gặp cô Selina Kyle bí ẩn trong khi ngăn chặn kế hoạch nhằm tiêu diệt thành phố của nhân vật phản diện Bane...
+PH_PH00035_Todd Phillips_Phim hành động_2023-08-30_2023-04-05_/CinemaWebApp/resources/image/Joker_(phim_2019)_poster.jpg_Joker_02:04:00_Joker từ lâu đã là siêu ác nhân huyền thoại của điện ảnh thế giới. Nhưng có bao giờ bạn tự hỏi, Joker đến từ đâu và điều gì đã biến Joker trở thành biểu tượng tội lỗi của thành phố Gotham? JOKER sẽ là cái nhìn độc đáo về tên ác nhân khét tiếng của Vũ trụ DC – một câu chuyện gốc thấm nhuần, nhưng tách biệt rõ ràng với những truyền thuyết quen thuộc xoay quanh nhân vật mang đầy tính biểu tượng này. 
+PH_PH00036_J.J. Abrams_Phim hành động_2023-08-30_2023-04-05_/CinemaWebApp/resources/image/fsdfdsfdssf.jpg_Star Wars: The Rise of Skywalker_02:05:00_“Skywalker Trổi Dậy” là hồi kết cuối cùng của thiên sử thi Skywalker, nơi những huyền thoại mới sẽ được lập ra và cuộc chiến giành tự do vẫn chưa ngả ngũ. Bộ phim sẽ có sự góp mặt của dàn diễn viên gạo cội bao gồm “Công chúa Leia” Carrie Fisher, ‘Luke Skywalker” Mark Hamill và những cái tên quen thuộc như “Kylo Ren” Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Lupita Nyong’o, Kelly Marie Tran, và Billy Dee Williams..
+PH_PH00037_Josh Cooley_Phim tình cảm_2023-08-30_2023-04-06_/CinemaWebApp/resources/image/toy4.jpg_Toy Story 4_02:06:00_Toy Story 4 có nội dung Khi cô bé Bonnie mang tất cả đám đồ chơi đi du lịch cùng với gia đình mình, Woody đã vô tình hội ngộ với người bạn biệt tích lâu năm, Bo Peep – một búp bê đồ chơi có tinh thần thám hiểm. Khó khăn và hiểm nguy trong chuyến hành trình đã khiến Bo Peep tin rằng mình có thể có một cuộc sống phiêu lưu thú vị hơn là làm một món đồ chơi bằng sứ. Khi Woody và Bo Peep nhận ra họ là những món đồ chơi thuộc về hai thế giới khác nhau, họ đã sớm cảm nhận được những mối lo lắng của mình.
+PH_PH00038_Lee Unkrich_Phim tình cảm_2023-08-30_2023-04-07_/CinemaWebApp/resources/image/thumb-361114.jpg_Toy Story 3_02:07:00_Toy Story 3 là lúc khi Andy trở lại trường học, Woody, Buzz và những người bạn khác trong hộp đồ chơi bị đẩy lên gác xép, và cuối cùng lạc đến một trung tâm chăm sóc trẻ em.
+PH_PH00039_Gore Verbinski_Phim hành động_2023-08-30_2023-04-08_/CinemaWebApp/resources/image/8732-BWD22X34IMAGE1.jpg_Pirates of the Caribbean: Dead Man's Chest_02:08:00_Thuyền trưởng Jack Sparrow lại một lần nữa tái ngộ với khán giả điện ảnh trong thế giới đầy những chuyện kỳ lạ này. Lần này Jack mang trên mình một món nợ máu với Davey Jones - thuyền trưởng của con tàu ma nổi tiếng Flying Dutchman.
+PH_PH00040_Jon Favreau_Phim tình cảm_2023-08-30_2023-04-09_/CinemaWebApp/resources/image/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg_The Lion King_02:09:00_Tuy là người kế vị ngai vàng chính thức nhưng Simba phải đương đầu với những âm mưu của Scar, người chú ruột luôn toan tính chiếm lấy ngôi báu. Cuộc chiến ở Pride Rock trở nên khốc liệt hơn bao giờ hết và đỉnh điểm là việc chú sư tử Simba bị lưu đày khỏi quê hương. Với sự giúp đỡ của 2 người bạn mới Timon và Pumbaa, Simba dần học cách trưởng thành và quay trở về để giành lại những gì vốn dĩ thuộc về cậu. Bằng kĩ xảo đồ họa ấn tượng và âm nhạc sống động, Vua Sư Tử sẽ tái hiện lại những nhân vật mà khán giả yêu mến theo một cách hoàn toàn mới.
+PH_PH00041_Gareth Edwards_Phim hành động_2023-08-30_2023-04-10_/CinemaWebApp/resources/image/desktop-wallpaper-rogue-one-a-star-wars-story-2016-phone-moviemania-rogue-one-star-wars-star-wars-star-wars-poster-thumbnail.jpg_Rogue One: A Star Wars Story_02:10:00_Đây là phần ngoại truyện của Star Wars, sẽ ra mắt vào tháng 12 năm nay
+PH_PH00043_Rob Marshall_Phim hành động_2023-08-30_2023-04-12_/CinemaWebApp/resources/image/cuopbien.jpg_Pirates of the Caribbean: On Stranger Tides_02:12:00_Thuyền trưởng Jack Sparrow (Johnny Depp) và thuyền trưởng Barbossa (Geoffrey Rush) tiếp tục rong thuyền ra khơi để đi tìm Suối nguồn tươi trẻ. Trên đường đi, định mệnh đưa Jack gặp lại người phụ nữ mà anh đã quen trong quá khứ Angelica (Penelope Cruz). Cô bắt Jack lên chiếc thuyền Queen Anne’s Revenge của tên cướp biển khét tiếng Black Beard. Họ cùng nhau trải qua cuộc phiêu lưu đầy kỳ thú nhưng cũng ẩn chứa nhiều hiểm nguy, bất ngờ. Nội dung Cướp biển vùng Caribbean: Suối nguồn tươi trẻ - Phần 4 còn có sự xuất hiện của người cá, ban đầu nhóm người cá này tấn công đám hải tặc, sau đó, một cô người cá trong phim Cướp biển vùng Caribbean: Suối nguồn tươi trẻ - Phần 4 bị bắt đi vì họ tin rằng nước mắt của người cá nhỏ vào chiếc cốc thần mới tạo nên sự trường sinh bất tử
+PH_PH00044_Pierre Coffin, Kyle Balda_Phim tình cảm_2023-08-30_2023-04-13_/CinemaWebApp/resources/image/5907400_so.jpg_Despicable Me 3_02:13:00_Gru và vợ mới cưới của mình Lucy sẽ phải đối đầu với một kẻ mắc chứng vĩ cuồng, vốn là một ngôi sao nhí đã hết thời mang tên Balthazar Bratt.Balthazar Bratt là một giọng ca nhí từng nổi danh ngày xưa nhưng sau khi trưởng thành thì chương trình giải trí đó cũng đóng cửa. Giờ đây hắn cho rằng đã đến lúc mình nên quay lại thống trị thế giới và trực tiếp đối đầu cùng Gru.
+PH_PH00045_Andrew Stanton, Angus MacLane_Phim hành động_2023-08-30_2023-04-14_/CinemaWebApp/resources/image/meno.jpg_Finding Dory_02:14:00_6 tháng sau cuộc tìm kiếm cá con Nemo. Giờ đây, Dory sống một cuộc đời bình yên giữa những chú cá hề sọc cam trắng. Sau một chuyến dã ngoại xem đàn cá đuối manta di cư về nhà, Dory bắt đầu nảy ra câu hỏi về gia đình, về quá khứ của bản thân, và bắt đầu có những giấc mơ kỳ lạ. Dù là một cô cá nói trước quên ngay sau đó, nhưng Dory dám khẳng định mình đã tìm lại được một phần ký ức qua những giấc mơ ấy. Dory sẽ lên đường tìm xem cha mẹ mình, quê hương mình ở đâu.
+PH_PH00046_George Lucas_Phim hành động_2023-08-30_2023-04-15_/CinemaWebApp/resources/image/dsdsdsdsds.jpg_Star Wars: Episode I - The Phantom Menace_02:15:00_Naboo, một hành tinh yên bình dưới sự trị vì của nữ hoàng trẻ và sáng suốt Amidala, đang bị đe doạ bởi phái Trade Federation, những hình nộm che mắt cho chúa tể Sith và đệ tử của hắn, Darth Maul. Thống đốc Palpatine là quân sư chính cho nữ hoàng, cho dù có nhiều nghi ngờ xung quanh ông. Hiệp sĩ Jedi Qui-Gon Jinn và Obi-Wan Kenobi được gọi đến để can thiệp vào cuộc hỗn chiến này. Trên đường đi, họ thu nhận thêm đệ tử Anakin Skywalker, người sau này trở thành Darth Vader.
+PH_PH00047_Byron Howard, Rich Moore_Phim hoạt hình_2023-08-30_2023-04-16_/CinemaWebApp/resources/image/1669999889723-Zootopia-Poster.jpg_Zootopia_02:16:00_ Zootopia là một thành phố kì lạ, không giống bất kì thành phố nào trước đây của thế giới Walt Disney. Nơi đây là khu đô thị vui vẻ của các loài động vật, từ những loài to lớn như voi, tê giác, cho đến những loài nhỏ bé như chuột, thỏ.... Cho đến một ngày, cô cảnh sát thỏ Judy Hopps xuất hiện, thành phố Zootopia đã có những thay đổi hoàn toàn. Cô cùng người bạn đồng hành – chú cáo đầy “tiểu xảo” Nick Widle (do Jasson Bateman lồng tiếng) đã cùng nhau phiêu lưu trong một vụ kỳ án, với mong muốn thiết lập lại trật tự cho thành phố ZOOTOPIA.
+PH_PH00048_Clyde GeronimiWilfred JacksonHamilton Luske_Phim hoạt hình_2023-08-30_2023-04-17_/CinemaWebApp/resources/image/in5mjlsy.png_Alice in Wonderland_02:17:00_Alice Lạc Vào Xứ Sở Thần Tiên là phiên bản hoạt hình của câu chuyện Lewis Carrolls childrens. Alice trở nên buồn chán và suy nghĩ của mình bắt đầu đi lang thang. Cô nhìn thấy một con thỏ trắng dường như là vội vàng. Cô đuổi theo nó vào cái hang của nó và sau đó một loạt kỳ lạ nhất của cuộc phiêu lưu bắt đầu.
+PH_PH00049_Chris Columbus_Phim hành động_2023-08-30_2023-04-18_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_Harry Potter7 and the Sorcerer's Stone_02:18:00_Cậu bé Harry Potter được sống sót sau một trận quyết tử giữa Voldermort - chúa tể hắc ám và gia đình cậu. Cha mẹ của Harry đều hy sinh và em được đưa đến nhà của người dì. Mười một năm trôi qua, bí mật về thân thế và cái chết của cha mẹ em bị giấu kín, Harry lớn lên trong sự hành hạ của gia đình dì dượng cho đến ngày em phát hiện ra mình là một phù thuỷ, mà lại là phù thuỷ nổi tiếng với vết sẹo trên tráng. Harry Potter bước vào năm học đầu tiên ở trường Hogwarts, kết bạn với Ron và Hermione. Em cũng nhận ra mình từng thoát chết dưới bàn tay của kẻ tàn ác nhất thế giới phù thuỷ và làm hắn mất hết sức mạnh. Giờ đây, kẻ độc ác đấy đang tìm cách hồi sinh, trở lại và tiêu diệt Harry Potter.
+PH_PH00050_Peter Jackson_Phim hành động_2023-08-30_2023-04-19_/CinemaWebApp/resources/image/captain-america-wallpaper-1600x900 (1).jpg_The Hobbit: An Unexpected Journey_02:19:00_Hobbit: Hành Trình Vô Định xoay quanh cuộc phiêu lưu của chàng trai người Hobbit - Bilbo Baggins. Cậu cùng đội ngũ 13 người lùn Dwarf giành lại Erebor - vương quốc người lùn từ lâu đã bị rồng Smaug chiếm lĩnh. Trong hành trình đó, định mệnh đã cho Bilbo Baggins tiếp xúc với chiếc nhẫn The One, nguồn cơn của mọi cuộc chiến sau này trong " The Lord of the Rings".
+PH_PH00051_Ngoc Sinh_Phim hoạt hình_2023-08-30_2023-05-21_/CinemaWebApp/resources/image/ce96a3af3ec43f1331d3f39997180e63.jpg_Dragonball_01:30:00_Bảy Viên Ngọc Rồng mô tả cuộc hành trình của Sôn Gôku từ lúc bé đến trưởng thành, qua các lần tầm sư học võ và khám phá thế giới để truy tìm các viên ngọc rồng với điều ước từ rồng thiên. Xuyên suốt hành trình của Songuku, cậu đã gặp được nhiều bạn bè và chống lại những kẻ hung ác có ý định dùng điều ước từ rồng thiên để làm bá chủ thế giới.
+PH_PH00052_Joel Crawford_Phim hoạt hình_2023-08-30_2023-05-21_/CinemaWebApp/resources/image/thumb-422826.jpg_Croods_01:30:00_Croods là câu chuyện sinh tồn trong một thế giới tiền sử luôn rình rập hiểm nguy từ đủ loài quái thú hung dữ cho tới thảm họa ngày tận thế, Nhà Croods chưa từng một lần chùn bước. Nhưng giờ đây họ sẽ phải đối mặt với thử thách lớn nhất từ trước tới nay: chung sống với một gia đình khác.
+PH_PH00053_Hikaru Kondou, Takashi Suhara, Haruo Sotozaki_Phim hoạt hình_2023-08-30_2023-05-21_/CinemaWebApp/resources/image/vx606j9b.png_Demon Slayer_01:30:00_Tanjirou là con cả của gia đình vừa mất cha. Một ngày nọ, Tanjirou đến thăm thị trấn khác để bán than, khi đêm về cậu ở nghỉ tại nhà người khác thay vì về nhà vì lời đồn thổi về ác quỷ luôn rình mò gần núi vào buổi tối. Khi cậu về nhà vào ngày hôm sau, bị kịch đang đợi chờ cậu…
+PH_PH00055_Glen Keane, John Kahrs_Phim hoạt hình_2023-08-30_2023-05-24_/CinemaWebApp/resources/image/MV5BNTI0ZjVhM2ItMmFkOS00ZmFiLTg4NGQtODJjNTZmMDYxMWMyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg_Over The Moon_01:30:00_Vươn Tới Cung Trăng là câu chuyện được những ký ức về mẹ thôi thúc, cô bé tháo vát Phi Phi đóng tàu tên lửa lên mặt trăng trong nhiệm vụ chứng minh Hằng Nga trong thần thoại là có thật.
+PH_PH00057_Makoto Shinkai_Phim hoạt hình_2023-08-30_2023-05-22_/CinemaWebApp/resources/image/thumb-458922.jpg_Weathering With You_01:30:00_Hodaka là cậu thiếu niên sống trên một hòn đảo nhỏ, đã rời khỏi quê hương để đến Tokyo sầm uất. Tại đây, cậu quen biết với Hina - một cô gái kì lạ có năng lực thanh lọc bầu trời mỗi khi "cầu nguyện". Cô có khả năng chặn đứng cơn mưa và xua tan mây đen theo ý muốn.
+PH_PH00061_James Gunn_Phim hành động_2023-09-30_2023-08-30_/CinemaWebApp/resources/image/image-285-1683426593.jpg_Guardians Of The Galaxy Vol.3_01:30:00_Bộ phim chính là một siêu phẩm bom tấn được đón chờ rất nhiều trong năm của hãng Marvels. Sự khác biệt lần này là biệt đội hoàn toàn mới, lạ và dị từ khắp nơi trong dải ngân hà. Biệt đội gồm các thành viên là một tay thám hiểm vũ trụ - Peter Quill, một con gấu trúc Mỹ lạm dụng súng - Rocket, một người hình cây - Groot, một nữ sát thủ da xanh - Gamora, và một chiến binh huỷ diệt - Drax. Một nhiệm vụ khá quen của đội là giải cứu thế giới khỏi nguy cơ huỷ diệt dưới Thanos, kẻ có quyền lực và mạnh nhất trong vũ trụ đó. Một nhiệm vụ khó khăn cùng bao nhiêu thử thách gian nan. Liệu vệ binh ấy có giải cứu được dải Ngân hà?
+GH_A1_PC00001_A__
+GH_A2_PC00001_A__
+GH_A3_PC00001_A__
+GH_A4_PC00001_A__
+GH_A5_PC00001_A__
+GH_A6_PC00001_A__
+GH_A7_PC00001_A__
+GH_A8_PC00001_A__
+GH_A9_PC00001_A__
+GH_A10_PC00001_A__
+GH_B1_PC00001_B__
+GH_B2_PC00001_B__
+GH_B3_PC00001_B__
+GH_B4_PC00001_B__
+GH_B5_PC00001_B__
+GH_B6_PC00001_B__
+GH_B7_PC00001_B__
+GH_B8_PC00001_B__
+GH_B9_PC00001_B__
+GH_B10_PC00001_B__
+GH_C1_PC00001_C__
+GH_C2_PC00001_C__
+GH_C3_PC00001_C__
+GH_C4_PC00001_C__
+GH_C5_PC00001_C__
+GH_C6_PC00001_C__
+GH_C7_PC00001_C__
+GH_C8_PC00001_C__
+GH_C9_PC00001_C__
+GH_C10_PC00001_C__
+GH_D1_PC00001_D__
+GH_D2_PC00001_D__
+GH_D3_PC00001_D__
+GH_D4_PC00001_D__
+GH_D5_PC00001_D__
+GH_D6_PC00001_D__
+GH_D7_PC00001_D__
+GH_D8_PC00001_D__
+GH_D9_PC00001_D__
+GH_D10_PC00001_D__
+GH_E1_PC00001_E__
+GH_E2_PC00001_E__
+GH_E3_PC00001_E__
+GH_E4_PC00001_E__
+GH_E5_PC00001_E__
+GH_E6_PC00001_E__
+GH_E7_PC00001_E__
+GH_E8_PC00001_E__
+GH_E9_PC00001_E__
+GH_E10_PC00001_E__
+GH_F1_PC00001_F__
+GH_F2_PC00001_F__
+GH_F3_PC00001_F__
+GH_F4_PC00001_F__
+GH_F5_PC00001_F__
+GH_F6_PC00001_F__
+GH_F7_PC00001_F__
+GH_F8_PC00001_F__
+GH_F9_PC00001_F__
+GH_F10_PC00001_F__
+GH_G1_PC00001_G__
+GH_G2_PC00001_G__
+GH_G3_PC00001_G__
+GH_G4_PC00001_G__
+GH_G5_PC00001_G__
+GH_G6_PC00001_G__
+GH_G7_PC00001_G__
+GH_G8_PC00001_G__
+GH_G9_PC00001_G__
+GH_G10_PC00001_G__
+GH_H1_PC00001_H__
+GH_H2_PC00001_H__
+GH_H3_PC00001_H__
+GH_H4_PC00001_H__
+GH_H5_PC00001_H__
+GH_H6_PC00001_H__
+GH_H7_PC00001_H__
+GH_H8_PC00001_H__
+GH_H9_PC00001_H__
+GH_H10_PC00001_H__
+GH_I1_PC00001_I__
+GH_I2_PC00001_I__
+GH_I3_PC00001_I__
+GH_I4_PC00001_I__
+GH_I5_PC00001_I__
+GH_I6_PC00001_I__
+GH_I7_PC00001_I__
+GH_I8_PC00001_I__
+GH_I9_PC00001_I__
+GH_I10_PC00001_I__
+GH_J1_PC00001_J__
+GH_J2_PC00001_J__
+GH_J3_PC00001_J__
+GH_J4_PC00001_J__
+GH_J5_PC00001_J__
+GH_J6_PC00001_J__
+GH_J7_PC00001_J__
+GH_J8_PC00001_J__
+GH_J9_PC00001_J__
+GH_J10_PC00001_J__
+GH_A1_PC00002_A__
+GH_A2_PC00002_A__
+GH_A3_PC00002_A__
+GH_A4_PC00002_A__
+GH_A5_PC00002_A__
+GH_A6_PC00002_A__
+GH_A7_PC00002_A__
+GH_A8_PC00002_A__
+GH_A9_PC00002_A__
+GH_A10_PC00002_A__
+GH_B1_PC00002_B__
+GH_B2_PC00002_B__
+GH_B3_PC00002_B__
+GH_B4_PC00002_B__
+GH_B5_PC00002_B__
+GH_B6_PC00002_B__
+GH_B7_PC00002_B__
+GH_B8_PC00002_B__
+GH_B9_PC00002_B__
+GH_B10_PC00002_B__
+GH_C1_PC00002_C__
+GH_C2_PC00002_C__
+GH_C3_PC00002_C__
+GH_C4_PC00002_C__
+GH_C5_PC00002_C__
+GH_C6_PC00002_C__
+GH_C7_PC00002_C__
+GH_C8_PC00002_C__
+GH_C9_PC00002_C__
+GH_C10_PC00002_C__
+GH_D1_PC00002_D__
+GH_D2_PC00002_D__
+GH_D3_PC00002_D__
+GH_D4_PC00002_D__
+GH_D5_PC00002_D__
+GH_D6_PC00002_D__
+GH_D7_PC00002_D__
+GH_D8_PC00002_D__
+GH_D9_PC00002_D__
+GH_D10_PC00002_D__
+GH_E1_PC00002_E__
+GH_E2_PC00002_E__
+GH_E3_PC00002_E__
+GH_E4_PC00002_E__
+GH_E5_PC00002_E__
+GH_E6_PC00002_E__
+GH_E7_PC00002_E__
+GH_E8_PC00002_E__
+GH_E9_PC00002_E__
+GH_E10_PC00002_E__
+GH_F1_PC00002_F__
+GH_F2_PC00002_F__
+GH_F3_PC00002_F__
+GH_F4_PC00002_F__
+GH_F5_PC00002_F__
+GH_F6_PC00002_F__
+GH_F7_PC00002_F__
+GH_F8_PC00002_F__
+GH_F9_PC00002_F__
+GH_F10_PC00002_F__
+GH_G1_PC00002_G__
+GH_G2_PC00002_G__
+GH_G3_PC00002_G__
+GH_G4_PC00002_G__
+GH_G5_PC00002_G__
+GH_G6_PC00002_G__
+GH_G7_PC00002_G__
+GH_G8_PC00002_G__
+GH_G9_PC00002_G__
+GH_G10_PC00002_G__
+GH_H1_PC00002_H__
+GH_H2_PC00002_H__
+GH_H3_PC00002_H__
+GH_H4_PC00002_H__
+GH_H5_PC00002_H__
+GH_H6_PC00002_H__
+GH_H7_PC00002_H__
+GH_H8_PC00002_H__
+GH_H9_PC00002_H__
+GH_H10_PC00002_H__
+GH_I1_PC00002_I__
+GH_I2_PC00002_I__
+GH_I3_PC00002_I__
+GH_I4_PC00002_I__
+GH_I5_PC00002_I__
+GH_I6_PC00002_I__
+GH_I7_PC00002_I__
+GH_I8_PC00002_I__
+GH_I9_PC00002_I__
+GH_I10_PC00002_I__
+GH_J1_PC00002_J__
+GH_J2_PC00002_J__
+GH_J3_PC00002_J__
+GH_J4_PC00002_J__
+GH_J5_PC00002_J__
+GH_J6_PC00002_J__
+GH_J7_PC00002_J__
+GH_J8_PC00002_J__
+GH_J9_PC00002_J__
+GH_J10_PC00002_J__
+GH_A1_PC00003_A__
+GH_A2_PC00003_A__
+GH_A3_PC00003_A__
+GH_A4_PC00003_A__
+GH_A5_PC00003_A__
+GH_A6_PC00003_A__
+GH_A7_PC00003_A__
+GH_A8_PC00003_A__
+GH_A9_PC00003_A__
+GH_A10_PC00003_A__
+GH_B1_PC00003_B__
+GH_B2_PC00003_B__
+GH_B3_PC00003_B__
+GH_B4_PC00003_B__
+GH_B5_PC00003_B__
+GH_B6_PC00003_B__
+GH_B7_PC00003_B__
+GH_B8_PC00003_B__
+GH_B9_PC00003_B__
+GH_B10_PC00003_B__
+GH_C1_PC00003_C__
+GH_C2_PC00003_C__
+GH_C3_PC00003_C__
+GH_C4_PC00003_C__
+GH_C5_PC00003_C__
+GH_C6_PC00003_C__
+GH_C7_PC00003_C__
+GH_C8_PC00003_C__
+GH_C9_PC00003_C__
+GH_C10_PC00003_C__
+GH_D1_PC00003_D__
+GH_D2_PC00003_D__
+GH_D3_PC00003_D__
+GH_D4_PC00003_D__
+GH_D5_PC00003_D__
+GH_D6_PC00003_D__
+GH_D7_PC00003_D__
+GH_D8_PC00003_D__
+GH_D9_PC00003_D__
+GH_D10_PC00003_D__
+GH_E1_PC00003_E__
+GH_E2_PC00003_E__
+GH_E3_PC00003_E__
+GH_E4_PC00003_E__
+GH_E5_PC00003_E__
+GH_E6_PC00003_E__
+GH_E7_PC00003_E__
+GH_E8_PC00003_E__
+GH_E9_PC00003_E__
+GH_E10_PC00003_E__
+GH_F1_PC00003_F__
+GH_F2_PC00003_F__
+GH_F3_PC00003_F__
+GH_F4_PC00003_F__
+GH_F5_PC00003_F__
+GH_F6_PC00003_F__
+GH_F7_PC00003_F__
+GH_F8_PC00003_F__
+GH_F9_PC00003_F__
+GH_F10_PC00003_F__
+GH_G1_PC00003_G__
+GH_G2_PC00003_G__
+GH_G3_PC00003_G__
+GH_G4_PC00003_G__
+GH_G5_PC00003_G__
+GH_G6_PC00003_G__
+GH_G7_PC00003_G__
+GH_G8_PC00003_G__
+GH_G9_PC00003_G__
+GH_G10_PC00003_G__
+GH_H1_PC00003_H__
+GH_H2_PC00003_H__
+GH_H3_PC00003_H__
+GH_H4_PC00003_H__
+GH_H5_PC00003_H__
+GH_H6_PC00003_H__
+GH_H7_PC00003_H__
+GH_H8_PC00003_H__
+GH_H9_PC00003_H__
+GH_H10_PC00003_H__
+GH_I1_PC00003_I__
+GH_I2_PC00003_I__
+GH_I3_PC00003_I__
+GH_I4_PC00003_I__
+GH_I5_PC00003_I__
+GH_I6_PC00003_I__
+GH_I7_PC00003_I__
+GH_I8_PC00003_I__
+GH_I9_PC00003_I__
+GH_I10_PC00003_I__
+GH_J1_PC00003_J__
+GH_J2_PC00003_J__
+GH_J3_PC00003_J__
+GH_J4_PC00003_J__
+GH_J5_PC00003_J__
+GH_J6_PC00003_J__
+GH_J7_PC00003_J__
+GH_J8_PC00003_J__
+GH_J9_PC00003_J__
+GH_J10_PC00003_J__
+GH_A1_PC00004_A__
+GH_A2_PC00004_A__
+GH_A3_PC00004_A__
+GH_A4_PC00004_A__
+GH_A5_PC00004_A__
+GH_A6_PC00004_A__
+GH_A7_PC00004_A__
+GH_A8_PC00004_A__
+GH_A9_PC00004_A__
+GH_A10_PC00004_A__
+GH_B1_PC00004_B__
+GH_B2_PC00004_B__
+GH_B3_PC00004_B__
+GH_B4_PC00004_B__
+GH_B5_PC00004_B__
+GH_B6_PC00004_B__
+GH_B7_PC00004_B__
+GH_B8_PC00004_B__
+GH_B9_PC00004_B__
+GH_B10_PC00004_B__
+GH_C1_PC00004_C__
+GH_C2_PC00004_C__
+GH_C3_PC00004_C__
+GH_C4_PC00004_C__
+GH_C5_PC00004_C__
+GH_C6_PC00004_C__
+GH_C7_PC00004_C__
+GH_C8_PC00004_C__
+GH_C9_PC00004_C__
+GH_C10_PC00004_C__
+GH_D1_PC00004_D__
+GH_D2_PC00004_D__
+GH_D3_PC00004_D__
+GH_D4_PC00004_D__
+GH_D5_PC00004_D__
+GH_D6_PC00004_D__
+GH_D7_PC00004_D__
+GH_D8_PC00004_D__
+GH_D9_PC00004_D__
+GH_D10_PC00004_D__
+GH_E1_PC00004_E__
+GH_E2_PC00004_E__
+GH_E3_PC00004_E__
+GH_E4_PC00004_E__
+GH_E5_PC00004_E__
+GH_E6_PC00004_E__
+GH_E7_PC00004_E__
+GH_E8_PC00004_E__
+GH_E9_PC00004_E__
+GH_E10_PC00004_E__
+GH_F1_PC00004_F__
+GH_F2_PC00004_F__
+GH_F3_PC00004_F__
+GH_F4_PC00004_F__
+GH_F5_PC00004_F__
+GH_F6_PC00004_F__
+GH_F7_PC00004_F__
+GH_F8_PC00004_F__
+GH_F9_PC00004_F__
+GH_F10_PC00004_F__
+GH_G1_PC00004_G__
+GH_G2_PC00004_G__
+GH_G3_PC00004_G__
+GH_G4_PC00004_G__
+GH_G5_PC00004_G__
+GH_G6_PC00004_G__
+GH_G7_PC00004_G__
+GH_G8_PC00004_G__
+GH_G9_PC00004_G__
+GH_G10_PC00004_G__
+GH_H1_PC00004_H__
+GH_H2_PC00004_H__
+GH_H3_PC00004_H__
+GH_H4_PC00004_H__
+GH_H5_PC00004_H__
+GH_H6_PC00004_H__
+GH_H7_PC00004_H__
+GH_H8_PC00004_H__
+GH_H9_PC00004_H__
+GH_H10_PC00004_H__
+GH_I1_PC00004_I__
+GH_I2_PC00004_I__
+GH_I3_PC00004_I__
+GH_I4_PC00004_I__
+GH_I5_PC00004_I__
+GH_I6_PC00004_I__
+GH_I7_PC00004_I__
+GH_I8_PC00004_I__
+GH_I9_PC00004_I__
+GH_I10_PC00004_I__
+GH_J1_PC00004_J__
+GH_J2_PC00004_J__
+GH_J3_PC00004_J__
+GH_J4_PC00004_J__
+GH_J5_PC00004_J__
+GH_J6_PC00004_J__
+GH_J7_PC00004_J__
+GH_J8_PC00004_J__
+GH_J9_PC00004_J__
+GH_J10_PC00004_J__
+GH_A1_PC00005_A__
+GH_A2_PC00005_A__
+GH_A3_PC00005_A__
+GH_A4_PC00005_A__
+GH_A5_PC00005_A__
+GH_A6_PC00005_A__
+GH_A7_PC00005_A__
+GH_A8_PC00005_A__
+GH_B1_PC00005_B__
+GH_B2_PC00005_B__
+GH_B3_PC00005_B__
+GH_B4_PC00005_B__
+GH_B5_PC00005_B__
+GH_B6_PC00005_B__
+GH_B7_PC00005_B__
+GH_B8_PC00005_B__
+GH_C1_PC00005_C__
+GH_C2_PC00005_C__
+GH_C3_PC00005_C__
+GH_C4_PC00005_C__
+GH_C5_PC00005_C__
+GH_C6_PC00005_C__
+GH_C7_PC00005_C__
+GH_C8_PC00005_C__
+GH_D1_PC00005_D__
+GH_D2_PC00005_D__
+GH_D3_PC00005_D__
+GH_D4_PC00005_D__
+GH_D5_PC00005_D__
+GH_D6_PC00005_D__
+GH_D7_PC00005_D__
+GH_D8_PC00005_D__
+GH_E1_PC00005_E__
+GH_E2_PC00005_E__
+GH_E3_PC00005_E__
+GH_E4_PC00005_E__
+GH_E5_PC00005_E__
+GH_E6_PC00005_E__
+GH_E7_PC00005_E__
+GH_E8_PC00005_E__
+GH_F1_PC00005_F__
+GH_F2_PC00005_F__
+GH_F3_PC00005_F__
+GH_F4_PC00005_F__
+GH_F5_PC00005_F__
+GH_F6_PC00005_F__
+GH_F7_PC00005_F__
+GH_F8_PC00005_F__
+GH_G1_PC00005_G__
+GH_G2_PC00005_G__
+GH_G3_PC00005_G__
+GH_G4_PC00005_G__
+GH_G5_PC00005_G__
+GH_G6_PC00005_G__
+GH_G7_PC00005_G__
+GH_G8_PC00005_G__
+GH_H1_PC00005_H__
+GH_H2_PC00005_H__
+GH_H3_PC00005_H__
+GH_H4_PC00005_H__
+GH_H5_PC00005_H__
+GH_H6_PC00005_H__
+GH_H7_PC00005_H__
+GH_H8_PC00005_H__
+GH_A1_PC00006_A__
+GH_A2_PC00006_A__
+GH_A3_PC00006_A__
+GH_A4_PC00006_A__
+GH_A5_PC00006_A__
+GH_A6_PC00006_A__
+GH_A7_PC00006_A__
+GH_A8_PC00006_A__
+GH_B1_PC00006_B__
+GH_B2_PC00006_B__
+GH_B3_PC00006_B__
+GH_B4_PC00006_B__
+GH_B5_PC00006_B__
+GH_B6_PC00006_B__
+GH_B7_PC00006_B__
+GH_B8_PC00006_B__
+GH_C1_PC00006_C__
+GH_C2_PC00006_C__
+GH_C3_PC00006_C__
+GH_C4_PC00006_C__
+GH_C5_PC00006_C__
+GH_C6_PC00006_C__
+GH_C7_PC00006_C__
+GH_C8_PC00006_C__
+GH_D1_PC00006_D__
+GH_D2_PC00006_D__
+GH_D3_PC00006_D__
+GH_D4_PC00006_D__
+GH_D5_PC00006_D__
+GH_D6_PC00006_D__
+GH_D7_PC00006_D__
+GH_D8_PC00006_D__
+GH_E1_PC00006_E__
+GH_E2_PC00006_E__
+GH_E3_PC00006_E__
+GH_E4_PC00006_E__
+GH_E5_PC00006_E__
+GH_E6_PC00006_E__
+GH_E7_PC00006_E__
+GH_E8_PC00006_E__
+GH_F1_PC00006_F__
+GH_F2_PC00006_F__
+GH_F3_PC00006_F__
+GH_F4_PC00006_F__
+GH_F5_PC00006_F__
+GH_F6_PC00006_F__
+GH_F7_PC00006_F__
+GH_F8_PC00006_F__
+GH_G1_PC00006_G__
+GH_G2_PC00006_G__
+GH_G3_PC00006_G__
+GH_G4_PC00006_G__
+GH_G5_PC00006_G__
+GH_G6_PC00006_G__
+GH_G7_PC00006_G__
+GH_G8_PC00006_G__
+GH_H1_PC00006_H__
+GH_H2_PC00006_H__
+GH_H3_PC00006_H__
+GH_H4_PC00006_H__
+GH_H5_PC00006_H__
+GH_H6_PC00006_H__
+GH_H7_PC00006_H__
+GH_H8_PC00006_H__
+GH_A1_PC00007_A__
+GH_A2_PC00007_A__
+GH_A3_PC00007_A__
+GH_A4_PC00007_A__
+GH_A5_PC00007_A__
+GH_A6_PC00007_A__
+GH_B1_PC00007_B__
+GH_B2_PC00007_B__
+GH_B3_PC00007_B__
+GH_B4_PC00007_B__
+GH_B5_PC00007_B__
+GH_B6_PC00007_B__
+GH_C1_PC00007_C__
+GH_C2_PC00007_C__
+GH_C3_PC00007_C__
+GH_C4_PC00007_C__
+GH_C5_PC00007_C__
+GH_C6_PC00007_C__
+GH_D1_PC00007_D__
+GH_D2_PC00007_D__
+GH_D3_PC00007_D__
+GH_D4_PC00007_D__
+GH_D5_PC00007_D__
+GH_D6_PC00007_D__
+GH_E1_PC00007_E__
+GH_E2_PC00007_E__
+GH_E3_PC00007_E__
+GH_E4_PC00007_E__
+GH_E5_PC00007_E__
+GH_E6_PC00007_E__
+GH_A1_PC00008_A__
+GH_A2_PC00008_A__
+GH_A3_PC00008_A__
+GH_A4_PC00008_A__
+GH_A5_PC00008_A__
+GH_A6_PC00008_A__
+GH_A7_PC00008_A__
+GH_A8_PC00008_A__
+GH_A9_PC00008_A__
+GH_A10_PC00008_A__
+GH_B1_PC00008_B__
+GH_B2_PC00008_B__
+GH_B3_PC00008_B__
+GH_B4_PC00008_B__
+GH_B5_PC00008_B__
+GH_B6_PC00008_B__
+GH_B7_PC00008_B__
+GH_B8_PC00008_B__
+GH_B9_PC00008_B__
+GH_B10_PC00008_B__
+GH_C1_PC00008_C__
+GH_C2_PC00008_C__
+GH_C3_PC00008_C__
+GH_C4_PC00008_C__
+GH_C5_PC00008_C__
+GH_C6_PC00008_C__
+GH_C7_PC00008_C__
+GH_C8_PC00008_C__
+GH_C9_PC00008_C__
+GH_C10_PC00008_C__
+GH_D1_PC00008_D__
+GH_D2_PC00008_D__
+GH_D3_PC00008_D__
+GH_D4_PC00008_D__
+GH_D5_PC00008_D__
+GH_D6_PC00008_D__
+GH_D7_PC00008_D__
+GH_D8_PC00008_D__
+GH_D9_PC00008_D__
+GH_D10_PC00008_D__
+GH_E1_PC00008_E__
+GH_E2_PC00008_E__
+GH_E3_PC00008_E__
+GH_E4_PC00008_E__
+GH_E5_PC00008_E__
+GH_E6_PC00008_E__
+GH_E7_PC00008_E__
+GH_E8_PC00008_E__
+GH_E9_PC00008_E__
+GH_E10_PC00008_E__
+DV_DV00001_Bỏng ngô_30000_Bỏng ngô__
+DV_DV00002_Nước ngọt_15000_Nước ngọt__
+DV_DV00003_Milo_20000_Milo__
+DV_DV00004_Nước suối_10000_Nước suối__
+DV_DV00005_Khoai tây chiên_15000_Khoai tây chiên__
+DV_DV00006_Combo bỏng nuóc_35000_Combo bỏng nuóc__
+DV_DV00007_Bình nước_100000_Bình nước__
+DV_DV00008_Combo lớn_50000_Combo lớn__
+DV_DV00009_Kính 3D_70000_Kính 3D__
+DV_DV00010_Nước cam ép_15000_Nước cam ép__
+
